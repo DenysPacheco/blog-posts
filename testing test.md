@@ -1,5 +1,7 @@
 # Test
 
+![Construction](./construction.png)
+
 this is merely a test
 
 > testing is nice
